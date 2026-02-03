@@ -1,4 +1,8 @@
 streamlit
-tensorflow
-Pillow
+streamlit-lottie
+opencv-contrib-python-headless
+mediapipe
+requests
+pillow
 numpy
+keras==3.3.3
